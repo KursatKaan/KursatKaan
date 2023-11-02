@@ -1,7 +1,10 @@
 [![MasterHead](https://www.srdrylmz.com/wp-content/uploads/2017/01/dotnet-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Kürşat Kaan Onaran</h1>
-<h3 align="center">A passionate Full-Stack microsoft certified solution developer (MCSD) from Türkiye</h3>
+<h3 align="center">I am Full-Stack Web Developer 👨‍🔧👨‍💻 (MCSD)</h3>
+<h3 align="center">I live in Istanbul 💖 (MCSD)</h3>
+
+<h1 align="center">I continue to improve myself as I develop the web 🧱 </h1>
 
 - 📫 How to reach me **kursatkaanonaran@gmail.com**
 
