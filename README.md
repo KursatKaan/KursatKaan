@@ -1,16 +1,14 @@
-[![MasterHead](https://www.srdrylmz.com/wp-content/uploads/2017/01/dotnet-1.jpg)
+![MasterHead](https://github.com/KursatKaan/KursatKaan/assets/140398297/8b98b574-e9cc-4fa4-b8e5-056ef91435d8)
 
-<h1 align="center">Hi, I am Kürşat Kaan Onaran 👋</h1>
-<h3 align="center">I am Full-Stack Web Developer (MCSD) 👨‍🔧</h3>
-<h3 align="center">I live in Istanbul 💖</h3>
-
-<h2 align="center">I continue to improve myself as I develop the web 🧱 </h2>
+<h1 align="center">Kürşat Kaan Onaran</h1>
+<h3 align="center">Istanbul / Türkiye</h3>
 
 - 📫 How to reach me **kursatkaanonaran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kursatkaanonaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kursatkaanonaran" height="30" width="40" /></a>
+<a href="mailto:kursatkaanonaran@gmail.com" target="blank"><img align="center" src="https://github.com/KursatKaan/KursatKaan/assets/140398297/8151fa29-8c82-4fe5-9d25-adb45d4eb653" alt="kursatkaanonaran@gmail.com" height="48" width="48" /></a>
+<a href="https://linkedin.com/in/kursatkaanonaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kursatkaanonaran" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
