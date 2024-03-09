@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/KursatKaan/KursatKaan/assets/140398297/8b98b574-e9cc-4fa4-b8e5-056ef91435d8)
-
 <!-- Title -->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
@@ -56,20 +54,14 @@
       <a href="mailto:kursatkaanonaran@gmail.com" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-      <br>
-    </div>
-    <div>
-        <h5><a>Follow me:</a></h5>
-    </div>
-    <div>
-      <a href="#" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
+        <a href="#" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
       </a>
       <a href="#" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
       </a>
+      <br>
     </div>
-    <br>
 </div>
 <!-- End Contact Me -->
 <br>
