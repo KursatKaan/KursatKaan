@@ -31,19 +31,18 @@
     </tbody>
 </table>
 <!-- End About Me -->
-
 <br>
 
 <!-- Contact Me -->
 <div align="center">
-    <div>
+    <!--<div>
         <a href="https://github.com/KursatKaan/github-profile-views-counter">
             <img align="center" src="https://komarev.com/ghpvc/?username=KursatKaan&color=blue">
         </a>
         <a href="https://github.com/KursatKaan?tab=followers">
             <img align="center"  src="https://img.shields.io/github/followers/KursatKaan?style=flat-square&color=red">
         </a>      
-    </div>
+    </div> -->
     <div>
         <h5><a>Contact me:</a></h5>
     </div>
@@ -64,7 +63,7 @@
     </div>
     <div>
       <a href="#" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Youtube">
+            <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
       </a>
       <a href="#" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
@@ -73,6 +72,38 @@
     <br>
 </div>
 <!-- End Contact Me -->
+<br>
+<hr />
+
+<!-- Statistics -->
+<div align="center">
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=KursatKaan&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
+  </div>
+  <br>
+    <!-- <div>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=KursatKaan&row=1&column=7&theme=darkhub" alt="KursatKaan" />
+        </a>
+    </div> -->
+    <div>
+        <a href="https://github.com/KursatKaan">
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KursatKaan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
+        </a>
+        <br>
+        <br>
+        <a href="https://git.io/streak-stats">
+            <img align="center" src="https://streak-stats.demolab.com?user=KursatKaan&theme=highcontrast&mode=weekly&exclude_days=Mon" />
+        </a>
+    </div>
+    <br>
+    <div>
+        <a href="https://github.com/KursatKaan">
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KursatKaan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=10" />
+        </a>
+    </div>
+</div>
+<!-- End Statistics-->
 <br>
 <hr />
 
@@ -93,9 +124,9 @@
                 <tr>
                     <th>Frontend</td>
                       <td>
-                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-                        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  height="40" alt="Bootstrap5"/>
+                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+                        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap5"/>
                         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
                         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
                         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -107,9 +138,9 @@
                   <tr>
                     <th>Backend</td>
                     <td>
-                        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp" />  
-                        <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNetCore" />
-                        <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNetFramework" />
+                        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>  
+                        <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNetCore"/>
+                        <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNetFramework"/>
                     </td>
                   </tr>
                   <tr>
@@ -163,36 +194,4 @@
     </div>
 </div>
 <!-- End Skills -->
-<br>
-<hr />
-
-<!-- Statistics -->
-<div align="center">
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
-  </div>
-  <br>
-    <!-- <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=KursatKaan&row=1&column=7&theme=darkhub" alt="KursatKaan" />
-        </a>
-    </div> -->
-    <div>
-        <a href="https://github.com/KursatKaan">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KursatKaan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
-        </a>
-        <br>
-        <br>
-        <a href="https://git.io/streak-stats">
-            <img align="center" src="https://streak-stats.demolab.com?user=KursatKaan&theme=highcontrast&mode=weekly&exclude_days=Mon" />
-        </a>
-    </div>
-    <br>
-    <div>
-        <a href="https://github.com/KursatKaan">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KursatKaan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=10" />
-        </a>
-    </div>
-</div>
-<!-- End Statistics-->
 
