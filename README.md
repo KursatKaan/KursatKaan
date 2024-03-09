@@ -46,7 +46,7 @@
     </div>
     <div>
       <a href="#" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="Website">
+            <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=logoColor=white" height="35" alt="Website">
         </a>
       <a href="https://www.linkedin.com/in/kursatkaanonaran" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
