@@ -46,7 +46,7 @@
     </div>
     <div>
       <a href="#" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+            <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="Website">
         </a>
       <a href="https://www.linkedin.com/in/kursatkaanonaran" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -58,7 +58,7 @@
             <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
       </a>
       <a href="#" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+            <img align="center" src="https://img.shields.io/badge/Udemy-EC1252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
       </a>
       <br>
     </div>
